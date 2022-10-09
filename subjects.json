@@ -1,0 +1,48 @@
+[
+  {
+    "$type": "science",
+    "Name": "Chemistry",
+    "Description": "Chemistry is a branch of natural science that deals principally with the properties of substances, the changes they undergo, and the natural laws that describe these changes.",
+    "NumberOfWeeklyClasses": 4,
+    "LiteratureUsed": "Chemistry: A Molecular Approach by Nivaldo Tro",
+    "ProfessorName": "John Smith"
+  },
+  {
+    "$type": "science",
+    "Name": "Biology",
+    "Description": "Biology is a branch of science that deals with living organisms and their vital processes.",
+    "NumberOfWeeklyClasses": 3,
+    "LiteratureUsed": "Biology by Peter Raven"
+  },
+  {
+    "$type": "science",
+    "Name": "Physics",
+    "Description": "Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force.",
+    "NumberOfWeeklyClasses": 5,
+    "LiteratureUsed": "The Elegant Universe by Brian Greene",
+    "ProfessorName": "John Smith"
+  },
+  {
+    "$type": "social",
+    "Name": "Geography",
+    "Description": "The study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these, including the distribution of populations and resources and political and economic activities.",
+    "NumberOfWeeklyClasses": 2,
+    "LiteratureUsed": "Atlas of World Geography by Rand McNally",
+    "ProfessorName": "Jane Doe"
+  },
+  {
+    "$type": "social",
+    "Name": "History",
+    "Description": "History is the study of change over time, and it covers all aspects of human society.",
+    "NumberOfWeeklyClasses": 2,
+    "LiteratureUsed": "The World History Workbook by David Hertzel",
+    "ProfessorName": "Jane Doe"
+  },
+  {
+    "$type": "social",
+    "Name": "Physical Education",
+    "Description": "Physical education provides cognitive content and instruction designed to develop motor skills, knowledge, and behaviors for physical activity and physical fitness.",
+    "NumberOfWeeklyClasses": 2,
+    "LiteratureUsed": "Introduction to Physical Education, Exercise Science, and Sport by Angela Lumpkin"
+  }
+]
